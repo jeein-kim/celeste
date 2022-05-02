@@ -1,6 +1,6 @@
 title:               test page
-url:                 https://nicoelayda.github.io
-baseurl:             ""
+url:                 https://jeein-kim.github.io
+baseurl:             /temp
 
 markdown:            kramdown
 highlighter:         rouge
